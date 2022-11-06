@@ -1,2 +1,2 @@
 # Algorithms-Work
-The algorithms I coded since 2017.
+The algorithms I wrote since 2017.
